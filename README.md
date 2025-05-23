@@ -3,7 +3,7 @@
 ##### - :books: I am currently studying as a Final year Computer Science student at University
 ##### - :computer: I primarily have experience in Java, Python and VB.NET
 ##### - :sweat: Apologies for the somewhat empty GitHub page, things are going on in the background- so check back at some point in the near future.
-##### - 🧠 My main projects are MovieWatchlistProject and GuessTheNumberProject
+##### - 🧠 I have developed both independent and collaborative projects in Java. These are pinned below.
 
 
 <!--
